@@ -72,7 +72,7 @@ pipeline {
                 artifacts: [
                     [artifactId: 'vproaopp',
                     classifier: '',
-                    file: 'target/vprofile-v2.0.0.war',
+                    file: 'target/vprofile-2.0.0.war',
                     type: 'war']
              ]
                 )
